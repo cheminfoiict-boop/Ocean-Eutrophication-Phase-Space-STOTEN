@@ -54,4 +54,4 @@ https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID
 MIT License — feel free to reuse and adapt the code.
 
 ## Citation
-[Your name] et al. (2026) A phase-space framework reveals nonlinear tipping dynamics of coastal eutrophication... *Science of the Total Environment* (in review).
+Amanchyet al. (2026) A phase-space framework reveals nonlinear tipping dynamics of coastal eutrophication... *Science of the Total Environment* (in review).
