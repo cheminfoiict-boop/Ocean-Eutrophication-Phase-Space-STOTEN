@@ -50,6 +50,50 @@ All high-resolution figures (PNG + SVG) and processed data are available in:
 **Google Drive folder**:  
 (https://drive.google.com/drive/folders/1guEGCtA455TLwf2PiImgC6nsQm5FNxwE?usp=drive_link)
 
+
+# Ocean Eutrophication Phase-Space Analysis  
+**A dynamical framework for tipping points and biomass repurposing**  
+*Science of the Total Environment* submission (2026)
+
+## Overview
+This repository contains all code and figures for the manuscript:  
+**"A phase-space framework reveals nonlinear tipping dynamics of coastal eutrophication and identifies sustainable biomass repurposing pathways"**
+
+## Contents
+- `Eutrophication_Phase_Space.ipynb` — Full reproducible Colab notebook
+- All high-resolution figures (SVG + PNG) in Google Drive (links below)
+
+## Figures (Publication-ready)
+
+**Figure 1.** Conceptual framework of coastal eutrophication phase space.  
+**Figure 2.** Phase-space map of redox intensity (R).  
+**Figure 3.** Nonlinear tipping dynamics under gradual nutrient increase.  
+**Figure 4.** Uncertainty and sensitivity analysis.  
+**Figure 5.** Feasible repurposing pathways and cost-benefit-risk analysis.  
+**Figure 6.** Chemical state-space of ocean regimes: reaction network of bloom-related chemistry (with NASA MODIS/VIIRS chlorophyll insets for Arabian Sea, Bay of Bengal, and Atlantic).  
+**Figure 7.** Minimal coupled dynamical model with four ODEs governing nutrient, biomass, organic matter, and oxygen dynamics.
+
+## Table 1. Economic evaluation of eutrophication biomass repurposing pathways (₹ per tonne)
+
+| Pathway              | Collection & Processing Cost | Revenue Potential | Net Benefit     | Scalability | Risk Level                | Feasibility |
+|----------------------|------------------------------|-------------------|-----------------|-------------|---------------------------|-------------|
+| Fish/Shrimp Feed     | 800–1,200                    | 4,000–6,000       | +3,000–4,500    | High        | Medium (heavy metals)     | High        |
+| Biofertiliser        | 500–800                      | 2,500–3,500       | +1,800–2,700    | Very High   | Low                       | Very High   |
+| Textiles/Fibre       | 2,500–3,500                  | 12,000–18,000     | +9,000–14,000   | Medium      | Medium                    | Emerging    |
+| Biogas/Biorefinery   | 1,500–2,500                  | 3,000–5,000       | +1,000–2,500    | Medium      | High (technology)         | Medium      |
+
+## Google Drive – All Figures
+High-resolution SVG + PNG files (600 dpi):  
+https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_LINK_HERE
+
+## How to reproduce
+Open the Colab notebook and run cells sequentially.
+
+## License
+MIT License
+
+## Citation
+Amanchy et al. (2026) A phase-space framework reveals nonlinear tipping dynamics of coastal eutrophication... *Science of the Total Environment* (in review).
 ## License
 MIT License — feel free to reuse and adapt the code.
 
